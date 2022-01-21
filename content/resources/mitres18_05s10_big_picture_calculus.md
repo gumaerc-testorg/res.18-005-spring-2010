@@ -1,0 +1,9 @@
+---
+content_type: resource
+description: ''
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/a5aacef117d00f9b80b95533a8c7f5a0_MITRES18_05S10_Big_Picture_Calculus.pdf
+file_type: application/pdf
+resourcetype: Document
+title: MITRES18_05S10_Big_Picture_Calculus.pdf
+uid: a5aacef1-17d0-0f9b-80b9-5533a8c7f5a0
+---
