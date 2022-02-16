@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Derivatives (12 videos)
+parent_type: SupplementalResourceSection
+related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_growth_rate_log_graphs
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: Growth Rate and Log Graphs
 uid: 78cc43c0-9034-d6f0-9f4b-d6ffb67be94e
 video_files:
   archive_url: http://www.archive.org/download/MITRES18.005/MITRES18_005S10_GrowthRates_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/65d8c89ed5be5306b20bf7c7372a5f51_WU1m2QQrlho.vtt
+  video_captions_file: /courses/res-18-005-highlights-of-calculus-spring-2010/65d8c89ed5be5306b20bf7c7372a5f51_WU1m2QQrlho.vtt
   video_thumbnail_file: https://img.youtube.com/vi/WU1m2QQrlho/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/e843e9d3a1cc5ed2e6ef7b296584927d_WU1m2QQrlho.pdf
+  video_transcript_file: /courses/res-18-005-highlights-of-calculus-spring-2010/e843e9d3a1cc5ed2e6ef7b296584927d_WU1m2QQrlho.pdf
 video_metadata:
   youtube_id: WU1m2QQrlho
 ---

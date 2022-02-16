@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Derivatives (12 videos)
+parent_type: SupplementalResourceSection
+related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_limits_continuous_functions
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: Limits and Continuous Functions
 uid: 67af9724-5fe5-f87d-005d-cacd2cad5cb1
 video_files:
   archive_url: http://www.archive.org/download/MITRES18.005/MITRES18_005S10_LimitsContinuous_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/d9c26d46a4385631ae13766bff2312cb_kAv5pahIevE.vtt
+  video_captions_file: /courses/res-18-005-highlights-of-calculus-spring-2010/d9c26d46a4385631ae13766bff2312cb_kAv5pahIevE.vtt
   video_thumbnail_file: https://img.youtube.com/vi/kAv5pahIevE/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/7417ddcecca3d9b20efbd35972665c11_kAv5pahIevE.pdf
+  video_transcript_file: /courses/res-18-005-highlights-of-calculus-spring-2010/7417ddcecca3d9b20efbd35972665c11_kAv5pahIevE.pdf
 video_metadata:
   youtube_id: kAv5pahIevE
 ---

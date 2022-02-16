@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Derivatives (12 videos)
+parent_type: SupplementalResourceSection
+related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_power_series_eulers_formula
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: Power Series/Euler's Great Formula
 uid: 31f03fac-3ef3-d789-15b8-a774467332c1
 video_files:
   archive_url: http://www.archive.org/download/MITRES18.005/MITRES18_005S10_EulersGreatFormula_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/1d9894f8ff2c5eb7bf1c8c240aef33d8_N4ceWhmXxcs.vtt
+  video_captions_file: /courses/res-18-005-highlights-of-calculus-spring-2010/1d9894f8ff2c5eb7bf1c8c240aef33d8_N4ceWhmXxcs.vtt
   video_thumbnail_file: https://img.youtube.com/vi/N4ceWhmXxcs/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/13ab21893e5fec3067d1c2c2c54f9a04_N4ceWhmXxcs.pdf
+  video_transcript_file: /courses/res-18-005-highlights-of-calculus-spring-2010/13ab21893e5fec3067d1c2c2c54f9a04_N4ceWhmXxcs.pdf
 video_metadata:
   youtube_id: N4ceWhmXxcs
 ---

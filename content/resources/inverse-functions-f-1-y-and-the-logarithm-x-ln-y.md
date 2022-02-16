@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Derivatives (12 videos)
+parent_type: SupplementalResourceSection
+related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_inverse_functions_logarithms
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: Inverse Functions f ^-1 (y) and the Logarithm x = ln y
 uid: 959fe3db-92c3-04d7-8136-dd19714275a4
 video_files:
   archive_url: http://www.archive.org/download/MITRES18.005/MITRES18_005S10_InverseFunctions_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/f74461dac98756b4a4edb5ef5ba2fb41_I_ril7ToAi4.vtt
+  video_captions_file: /courses/res-18-005-highlights-of-calculus-spring-2010/f74461dac98756b4a4edb5ef5ba2fb41_I_ril7ToAi4.vtt
   video_thumbnail_file: https://img.youtube.com/vi/I_ril7ToAi4/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/fd3209fa48b0765464a54f04b26bb8fb_I_ril7ToAi4.pdf
+  video_transcript_file: /courses/res-18-005-highlights-of-calculus-spring-2010/fd3209fa48b0765464a54f04b26bb8fb_I_ril7ToAi4.pdf
 video_metadata:
   youtube_id: I_ril7ToAi4
 ---

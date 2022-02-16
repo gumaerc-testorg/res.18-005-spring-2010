@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Derivatives (12 videos)
+parent_type: SupplementalResourceSection
+related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_linear_approx_newtons_method
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: Linear Approximation/Newton's Method
 uid: 33cca321-7ea0-31ae-65fa-88b9a985288e
 video_files:
   archive_url: http://www.archive.org/download/MITRES18.005/MITRES18_005S10_NewtonsMethod_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/4b736d26e35950e6a3cec42f1fd66eea_U0xlKuFqCuI.vtt
+  video_captions_file: /courses/res-18-005-highlights-of-calculus-spring-2010/4b736d26e35950e6a3cec42f1fd66eea_U0xlKuFqCuI.vtt
   video_thumbnail_file: https://img.youtube.com/vi/U0xlKuFqCuI/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/06f6e137293229a2ccc588f02774cd9d_U0xlKuFqCuI.pdf
+  video_transcript_file: /courses/res-18-005-highlights-of-calculus-spring-2010/06f6e137293229a2ccc588f02774cd9d_U0xlKuFqCuI.pdf
 video_metadata:
   youtube_id: U0xlKuFqCuI
 ---

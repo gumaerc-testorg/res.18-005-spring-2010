@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Derivatives (12 videos)
+parent_type: SupplementalResourceSection
+related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_differential_equations_motion
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: Differential Equations of Motion
 uid: 422cb899-b0af-a6fe-2617-f8b16f085a45
 video_files:
   archive_url: http://www.archive.org/download/MITRES18.005/MITRES18_005S10_DiffEqnsMotion_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/87eb8f93612c5f239900902445f8b9f2_4PBYm3FuUNQ.vtt
+  video_captions_file: /courses/res-18-005-highlights-of-calculus-spring-2010/87eb8f93612c5f239900902445f8b9f2_4PBYm3FuUNQ.vtt
   video_thumbnail_file: https://img.youtube.com/vi/4PBYm3FuUNQ/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/c6ee7a814a065c89295cd0817f4ab218_4PBYm3FuUNQ.pdf
+  video_transcript_file: /courses/res-18-005-highlights-of-calculus-spring-2010/c6ee7a814a065c89295cd0817f4ab218_4PBYm3FuUNQ.pdf
 video_metadata:
   youtube_id: 4PBYm3FuUNQ
 ---

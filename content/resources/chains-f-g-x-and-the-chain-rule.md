@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Derivatives (12 videos)
+parent_type: SupplementalResourceSection
+related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_chains_fgx_chain_rule
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: Chains f(g(x)) and the Chain Rule
 uid: d271ae24-770e-1e83-7be8-a33c2600924d
 video_files:
   archive_url: http://www.archive.org/download/MITRES18.005/MITRES18_005S10_ChainRule_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/6f69a518416453658b9687921e35ba34_yQrKXo89nHA.vtt
+  video_captions_file: /courses/res-18-005-highlights-of-calculus-spring-2010/6f69a518416453658b9687921e35ba34_yQrKXo89nHA.vtt
   video_thumbnail_file: https://img.youtube.com/vi/yQrKXo89nHA/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/63689bad72b8c0041789f994b5f2386f_yQrKXo89nHA.pdf
+  video_transcript_file: /courses/res-18-005-highlights-of-calculus-spring-2010/63689bad72b8c0041789f994b5f2386f_yQrKXo89nHA.pdf
 video_metadata:
   youtube_id: yQrKXo89nHA
 ---

@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Derivatives (12 videos)
+parent_type: SupplementalResourceSection
+related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_sixfunc_sixrules_sixtheo
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: Six Functions, Six Rules, and Six Theorems
 uid: 9d656253-7791-0287-5915-af6cdfefc3ed
 video_files:
   archive_url: http://www.archive.org/download/MITRES18.005/MITRES18_005S10_SixFunctions_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/a3dbb2da008b59d4a844ea5b75c8c870_LgWFurXHX8U.vtt
+  video_captions_file: /courses/res-18-005-highlights-of-calculus-spring-2010/a3dbb2da008b59d4a844ea5b75c8c870_LgWFurXHX8U.vtt
   video_thumbnail_file: https://img.youtube.com/vi/LgWFurXHX8U/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/c273bc7136f2e86ba9d255ea026a8544_LgWFurXHX8U.pdf
+  video_transcript_file: /courses/res-18-005-highlights-of-calculus-spring-2010/c273bc7136f2e86ba9d255ea026a8544_LgWFurXHX8U.pdf
 video_metadata:
   youtube_id: LgWFurXHX8U
 ---

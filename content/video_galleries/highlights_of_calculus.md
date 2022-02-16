@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Highlights of Calculus (5 videos)
 uid: 7d81baa6-870f-6d77-68ee-34a72b7f8625
 videos:

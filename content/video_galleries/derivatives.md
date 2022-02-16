@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Derivatives (12 videos)
 uid: 1ed01475-c0bc-d266-84e1-9218f297165d
 videos:

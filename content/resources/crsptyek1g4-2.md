@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/326013bcda1c5c08ad58b9ca00af5863_cRsptYEK1G4.vtt
+file: /media/courses/res-18-005-highlights-of-calculus-spring-2010/326013bcda1c5c08ad58b9ca00af5863_cRsptYEK1G4.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 326013bc-da1c-5c08-ad58-b9ca00af5863

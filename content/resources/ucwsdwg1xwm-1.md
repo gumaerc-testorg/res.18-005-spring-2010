@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/424a7610fccc797aaa2455d392246057_UcWsDwg1XwM.pdf
+file: /media/courses/res-18-005-highlights-of-calculus-spring-2010/424a7610fccc797aaa2455d392246057_UcWsDwg1XwM.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 424a7610-fccc-797a-aa24-55d392246057

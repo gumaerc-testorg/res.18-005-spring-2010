@@ -2,14 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Highlights of Calculus (5 videos)
+parent_type: SupplementalResourceSection
+related_resources_text: "Practice problems  \n([PDF](resources/mitres18_05s10_big_picture_calculus\
+  \ \"Open in a new window.\"))\n\nAudio summary for practice problems  \n([MP3 -\
+  \ 1.6MB](http://www.archive.org/download/MITRES18.005/MITRES18_005S10_BigPictureCalculus_Summary_32K.mp3))"
+resource_index_text: ''
 resourcetype: Video
 title: Big Picture of Calculus
 uid: afb08409-c408-09e3-672c-8d9dd62a9b9f
 video_files:
   archive_url: https://archive.org/download/MITRES18.005/MITRES18_005S10_BigPictureCalculus_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/1ce9dc37be9557d5a3316caec220811e_UcWsDwg1XwM.vtt
+  video_captions_file: /courses/res-18-005-highlights-of-calculus-spring-2010/1ce9dc37be9557d5a3316caec220811e_UcWsDwg1XwM.vtt
   video_thumbnail_file: https://img.youtube.com/vi/UcWsDwg1XwM/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/424a7610fccc797aaa2455d392246057_UcWsDwg1XwM.pdf
+  video_transcript_file: /courses/res-18-005-highlights-of-calculus-spring-2010/424a7610fccc797aaa2455d392246057_UcWsDwg1XwM.pdf
 video_metadata:
   youtube_id: UcWsDwg1XwM
 ---

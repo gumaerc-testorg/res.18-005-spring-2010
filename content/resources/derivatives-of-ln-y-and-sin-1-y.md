@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Derivatives (12 videos)
+parent_type: SupplementalResourceSection
+related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_paper_3
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: Derivatives of ln y and sin ^-1 (y)
 uid: 59d26b87-98d0-445f-1283-9ca8a86d4652
 video_files:
   archive_url: http://www.archive.org/download/MITRES18.005/MITRES18_005S10_DerivsOf_ln_y_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/326013bcda1c5c08ad58b9ca00af5863_cRsptYEK1G4.vtt
+  video_captions_file: /courses/res-18-005-highlights-of-calculus-spring-2010/326013bcda1c5c08ad58b9ca00af5863_cRsptYEK1G4.vtt
   video_thumbnail_file: https://img.youtube.com/vi/cRsptYEK1G4/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/cd3910323cbb50c7bb68dcecf8129ced_cRsptYEK1G4.pdf
+  video_transcript_file: /courses/res-18-005-highlights-of-calculus-spring-2010/cd3910323cbb50c7bb68dcecf8129ced_cRsptYEK1G4.pdf
 video_metadata:
   youtube_id: cRsptYEK1G4
 ---

@@ -1,12 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-18-005-highlights-of-calculus-spring-2010/14268ef44d265e550f5c829d14582a44_lec11.jpg
+file: /media/courses/res-18-005-highlights-of-calculus-spring-2010/14268ef44d265e550f5c829d14582a44_lec11.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: lec11.jpg
 uid: 14268ef4-4d26-5e55-0f5c-829d14582a44
