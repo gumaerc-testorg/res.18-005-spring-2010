@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,6 +12,7 @@ related_resources_text: Lecture summary and Practice problems ([PDF](resources/m
   "Open in a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Linear Approximation/Newton's Method
 uid: 33cca321-7ea0-31ae-65fa-88b9a985288e
 video_files:

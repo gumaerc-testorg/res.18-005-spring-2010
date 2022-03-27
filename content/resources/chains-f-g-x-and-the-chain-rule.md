@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,6 +12,7 @@ related_resources_text: Lecture summary and Practice problems ([PDF](resources/m
   "Open in a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Chains f(g(x)) and the Chain Rule
 uid: d271ae24-770e-1e83-7be8-a33c2600924d
 video_files:

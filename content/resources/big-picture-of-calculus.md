@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -12,6 +13,7 @@ related_resources_text: "Practice problems  \n([PDF](resources/mitres18_05s10_bi
   \ 1.6MB](http://www.archive.org/download/MITRES18.005/MITRES18_005S10_BigPictureCalculus_Summary_32K.mp3))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Big Picture of Calculus
 uid: afb08409-c408-09e3-672c-8d9dd62a9b9f
 video_files:

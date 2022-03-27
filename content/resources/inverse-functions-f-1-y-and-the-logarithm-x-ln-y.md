@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,6 +12,7 @@ related_resources_text: Lecture summary and Practice problems ([PDF](resources/m
   "Open in a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Inverse Functions f ^-1 (y) and the Logarithm x = ln y
 uid: 959fe3db-92c3-04d7-8136-dd19714275a4
 video_files:

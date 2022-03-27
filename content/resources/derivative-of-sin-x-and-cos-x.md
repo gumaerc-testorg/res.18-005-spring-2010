@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,6 +12,7 @@ related_resources_text: Lecture summary and Practice problems ([PDF](resources/m
   "Open in a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Derivative of sin x and cos x
 uid: 7eb3ca6c-874d-219f-37c6-afd983dc2bb3
 video_files:

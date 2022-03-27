@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,6 +12,7 @@ related_resources_text: Lecture summary and Practice problems ([PDF](resources/m
   "Open in a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Limits and Continuous Functions
 uid: 67af9724-5fe5-f87d-005d-cacd2cad5cb1
 video_files:
