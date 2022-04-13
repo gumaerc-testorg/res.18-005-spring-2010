@@ -1,9 +1,16 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/publicdomain/zero/1.0/
 optional_tab_title: ''
 optional_text: ''
 parent_title: Derivatives (12 videos)
@@ -16,14 +23,12 @@ start_time: ''
 title: Product Rule and Quotient Rule
 uid: 5039c173-e4de-0230-3da7-dedb6ec27287
 video_files:
-  archive_url: http://www.archive.org/download/MITRES18.005/MITRES18_005S10_ProductRule_300k.mp4
   video_captions_file: /courses/res-18-005-highlights-of-calculus-spring-2010/fddb98f26d425dbabbc93a34f183c2aa_5ZpqI8zz1HM.vtt
   video_thumbnail_file: https://img.youtube.com/vi/5ZpqI8zz1HM/default.jpg
   video_transcript_file: /courses/res-18-005-highlights-of-calculus-spring-2010/2b27688fff6c0fb6a54f8d69b5a3d5b8_5ZpqI8zz1HM.pdf
 video_metadata:
   youtube_id: 5ZpqI8zz1HM
 ---
-
 How to find the slope of f(x) times g(x) ?   Use the Product Rule.
 
 The slope of  f(x)g(x)  has two terms:
