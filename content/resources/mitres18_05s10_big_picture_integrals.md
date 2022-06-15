@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-18-005-highlights-of-calculus-spring-2010/2548145d00f0fb979b65bb6c08ceeb6a_MITRES18_05S10_Big_Picture_Integrals.pdf
+file: /courses/res-18-005-highlights-of-calculus-spring-2010/2548145d00f0fb979b65bb6c08ceeb6a_MITRES18_05S10_Big_Picture_Integrals.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

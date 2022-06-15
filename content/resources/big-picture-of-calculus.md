@@ -4,13 +4,13 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Highlights of Calculus (5 videos)
 parent_type: SupplementalResourceSection
-related_resources_text: "Practice problems  \n([PDF](resources/mitres18_05s10_big_picture_calculus\
-  \ \"Open in a new window.\"))\n\nAudio summary for practice problems  \n([MP3 -\
-  \ 1.6MB](http://www.archive.org/download/MITRES18.005/MITRES18_005S10_BigPictureCalculus_Summary_32K.mp3))"
+related_resources_text: "Practice problems  \n([PDF](/courses/res-18-005-highlights-of-calculus-spring-2010/resources/mitres18_05s10_big_picture_calculus))\n\
+  \nAudio summary for practice problems  \n([MP3 - 1.6MB](http://www.archive.org/download/MITRES18.005/MITRES18_005S10_BigPictureCalculus_Summary_32K.mp3))"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -31,6 +31,9 @@ Calculus is about change. One function tells how quickly another function is cha
 *   climbing a mountain
 *   growing to full adult height
 
-Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005/).
+Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005).
 
 Subtitles are provided through the generous assistance of Jimmy Ren.
+
+
+

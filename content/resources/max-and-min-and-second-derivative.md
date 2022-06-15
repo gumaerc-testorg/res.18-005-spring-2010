@@ -29,6 +29,9 @@ At the top and bottom of a curve (Max and Min), the slope is zero. The "second d
   
 _What route from home to work takes the shortest time?_
 
-Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005/).
+Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005).
 
 Subtitles are provided through the generous assistance of Jimmy Ren.
+
+
+

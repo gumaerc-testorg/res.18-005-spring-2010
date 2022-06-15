@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-18-005-highlights-of-calculus-spring-2010/8cb8aca5583b6c7a2383721ee7e27021_Big_Picture_Integrals.jpg
+file: /courses/res-18-005-highlights-of-calculus-spring-2010/8cb8aca5583b6c7a2383721ee7e27021_Big_Picture_Integrals.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

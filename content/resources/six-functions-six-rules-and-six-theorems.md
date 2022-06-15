@@ -4,12 +4,12 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Derivatives (12 videos)
 parent_type: SupplementalResourceSection
-related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_sixfunc_sixrules_sixtheo
-  "Open in a new window."))
+related_resources_text: Lecture summary and Practice problems ([PDF](/courses/res-18-005-highlights-of-calculus-spring-2010/resources/mitres18_05s10_sixfunc_sixrules_sixtheo))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -35,6 +35,9 @@ Function 1 is f(x)   Function 2 is its slope (rate of change)   Add up those
 The MEAN VALUE THEOREM says that if your average speed is 70,  then instant speed is 70 at least once  
 The BINOMIAL THEOREM tells you the series that adds up to the pth power f(x) = (1 + x)^p
 
-Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005/).
+Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005).
 
 Subtitles are provided through the generous assistance of Jimmy Ren.
+
+
+

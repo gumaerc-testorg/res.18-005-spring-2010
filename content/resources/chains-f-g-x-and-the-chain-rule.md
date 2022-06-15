@@ -4,12 +4,12 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Derivatives (12 videos)
 parent_type: SupplementalResourceSection
-related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_chains_fgx_chain_rule
-  "Open in a new window."))
+related_resources_text: Lecture summary and Practice problems ([PDF](/courses/res-18-005-highlights-of-calculus-spring-2010/resources/mitres18_05s10_chains_fgx_chain_rule))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -34,7 +34,10 @@ Since dz/dy is found in terms of y, substitute g(x) in place of y !!!
 The way to remember the slope of the chain is dz/dx = dz/dy times dy/dx.   
 Remove y to get a  function of x !   The slope of z = sin (3x) is 3 cos (3x).
 
-Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005/).
+Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005).
 
   
 Subtitles are provided through the generous assistance of Jimmy Ren.
+
+
+

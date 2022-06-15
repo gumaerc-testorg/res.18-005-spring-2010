@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-18-005-highlights-of-calculus-spring-2010/4b736d26e35950e6a3cec42f1fd66eea_U0xlKuFqCuI.vtt
+file: /courses/res-18-005-highlights-of-calculus-spring-2010/4b736d26e35950e6a3cec42f1fd66eea_U0xlKuFqCuI.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

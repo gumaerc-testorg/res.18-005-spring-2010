@@ -28,6 +28,9 @@ video_metadata:
 Professor Strang explains how the "magic number _e_" connects to ordinary things like the interest on a bank account. The graph of  
 y = e{{< sup "x" >}} has the special property that its slope equals its height (it goes up "exponentially fast"!). This is the great function of calculus.
 
-Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005/).
+Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005).
 
 Subtitles are provided through the generous assistance of Jimmy Ren.
+
+
+

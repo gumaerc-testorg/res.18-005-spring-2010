@@ -4,12 +4,12 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Derivatives (12 videos)
 parent_type: SupplementalResourceSection
-related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_growth_rate_log_graphs
-  "Open in a new window."))
+related_resources_text: Lecture summary and Practice problems ([PDF](/courses/res-18-005-highlights-of-calculus-spring-2010/resources/mitres18_05s10_growth_rate_log_graphs))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -33,6 +33,9 @@ A LOG-LOG graph plots log y against log x   If y = A x^n then log y = log A + 
 A SEMILOG graph plots log y against x        If y = A 10^cx then log y = log A + cx == LINE WITH SLOPE c  
 You will never see y = 0 on these graphs because log 0 is minus infinity.  But n and c jump out clearly.
 
-Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005/).
+Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005).
 
 Subtitles are provided through the generous assistance of Jimmy Ren.
+
+
+
