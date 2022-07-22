@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-18-005-highlights-of-calculus-spring-2010/46500bb5ba6b4858a583d516e5d3d7dd_cRsptYEK1G4.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
