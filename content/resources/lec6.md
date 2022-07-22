@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-18-005-highlights-of-calculus-spring-2010/69d9029d3533c8a4dcfeb6c46c84c28f_lec6.jpg
+file: /courses/res-18-005-highlights-of-calculus-spring-2010/69d9029d3533c8a4dcfeb6c46c84c28f_lec6.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: lec6.jpg

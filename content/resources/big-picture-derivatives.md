@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
 optional_text: ''
 parent_title: Highlights of Calculus (5 videos)
@@ -27,6 +28,7 @@ video_metadata:
 
 Calculus finds the relationship between the distance traveled and the speed — easy for constant speed, not so easy for changing speed. Professor Strang is finding the "rate of change" and the "slope of a curve" and the "derivative of a function."
 
-Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005/).
+Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005).
 
 Subtitles are provided through the generous assistance of Jimmy Ren.
+

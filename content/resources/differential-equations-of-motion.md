@@ -4,12 +4,13 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Derivatives (12 videos)
 parent_type: SupplementalResourceSection
-related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_differential_equations_motion
-  "Open in a new window."))
+related_resources_text: Lecture summary and Practice problems ([PDF](/courses/res-18-005-highlights-of-calculus-spring-2010/resources/mitres18_05s10_differential_equations_motion))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -33,6 +34,7 @@ y =  sin (at)  and y = cos (at)    Two derivatives bring back sine and cosi
 The next step allows damping (first derivative)  as in my ' ' +  dy ' + ky = 0   How to solve?  
 Just try y = e^at   !!  You find that   ma^2 + da + k = 0   Two a's give two solutions: good
 
-Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005/).
+Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005).
 
 Subtitles are provided through the generous assistance of Jimmy Ren.
+
