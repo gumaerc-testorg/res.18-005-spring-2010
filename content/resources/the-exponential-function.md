@@ -9,9 +9,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Highlights of Calculus (5 videos)
 parent_type: SupplementalResourceSection
-related_resources_text: "Practice problems  \n([PDF](resources/mitres18_05s10_exponential\
-  \ \"Open in a new window.\"))\n\nAudio summary for practice problems  \n([MP3 -\
-  \ 1.9MB](http://www.archive.org/download/MITRES18.005/MITRES18_005S10_Exponential_Summary_32K.mp3))"
+related_resources_text: "Practice problems<br>{{% resource_link \"1b96e913-9f30-8c98-2f0a-771b970231d9\"\
+  \ \"(PDF)\" %}}\n\nAudio summary for practice problems  \n([MP3 - 1.9MB](http://www.archive.org/download/MITRES18.005/MITRES18_005S10_Exponential_Summary_32K.mp3))"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -25,11 +24,9 @@ video_files:
 video_metadata:
   youtube_id: oo1ZZlvT2LQ
 ---
-
 Professor Strang explains how the "magic number _e_" connects to ordinary things like the interest on a bank account. The graph of  
 y = e{{< sup "x" >}} has the special property that its slope equals its height (it goes up "exponentially fast"!). This is the great function of calculus.
 
 Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005).
 
 Subtitles are provided through the generous assistance of Jimmy Ren.
-

@@ -9,9 +9,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Highlights of Calculus (5 videos)
 parent_type: SupplementalResourceSection
-related_resources_text: "Practice problems  \n([PDF](resources/mitres18_05s10_big_picture_integrals\
-  \ \"Open in a new window.\"))\n\nAudio summary for practice problems  \n([MP3 -\
-  \ 2.3MB](http://www.archive.org/download/MITRES18.005/MITRES18_005S10_BigPictureIntegrals_Summary_32k.mp3))"
+related_resources_text: "Practice problems<br>{{% resource_link \"2548145d-00f0-fb97-9b65-bb6c08ceeb6a\"\
+  \ \"(PDF)\" %}}\n\nAudio summary for practice problems  \n([MP3 - 2.3MB](http://www.archive.org/download/MITRES18.005/MITRES18_005S10_BigPictureIntegrals_Summary_32k.mp3))"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -25,7 +24,6 @@ video_files:
 video_metadata:
   youtube_id: 2qxY859dzzQ
 ---
-
 The second half of calculus looks for the distance traveled even when the speed is changing. Finding this "integral" is the opposite of finding the derivative. Professor Strang explains how the integral adds up little pieces to recover the total distance.  
   
 _I know the speed at each moment of my trip, so how far did I go?_
@@ -33,4 +31,3 @@ _I know the speed at each moment of my trip, so how far did I go?_
 Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005).
 
 Subtitles are provided through the generous assistance of Jimmy Ren.
-
