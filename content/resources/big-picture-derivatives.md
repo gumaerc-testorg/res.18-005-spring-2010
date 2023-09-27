@@ -9,9 +9,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Highlights of Calculus (5 videos)
 parent_type: SupplementalResourceSection
-related_resources_text: "Practice problems  \n([PDF](resources/mitres18_05s10_big_picture_derivatives\
-  \ \"Open in a new window.\"))\n\nAudio summary for practice problems  \n([MP3 -\
-  \ 1.7MB](http://www.archive.org/download/MITRES18.005/MITRES18_005S10_BigPictureDerivatives_Summary_32K.mp3))"
+related_resources_text: "Practice problems<br>{{% resource_link \"49176758-ccc5-5fb8-7ef0-97fda2bca7ed\"\
+  \ \"(PDF)\" %}}\n\nAudio summary for practice problems  \n([MP3 - 1.7MB](http://www.archive.org/download/MITRES18.005/MITRES18_005S10_BigPictureDerivatives_Summary_32K.mp3))"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -25,10 +24,8 @@ video_files:
 video_metadata:
   youtube_id: T_I-CUOc_bk
 ---
-
 Calculus finds the relationship between the distance traveled and the speed — easy for constant speed, not so easy for changing speed. Professor Strang is finding the "rate of change" and the "slope of a curve" and the "derivative of a function."
 
 Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005).
 
 Subtitles are provided through the generous assistance of Jimmy Ren.
-
