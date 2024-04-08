@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '87631625'
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -11,7 +12,8 @@ optional_text: ''
 parent_title: Highlights of Calculus (5 videos)
 parent_type: SupplementalResourceSection
 related_resources_text: "Practice problems  \n([PDF](/courses/res-18-005-highlights-of-calculus-spring-2010/resources/mitres18_05s10_big_picture_calculus))\n\
-  \nAudio summary for practice problems  \n([MP3 - 1.6MB](http://www.archive.org/download/MITRES18.005/MITRES18_005S10_BigPictureCalculus_Summary_32K.mp3))"
+  \nAudio summary for practice problems  \n({{% resource_link \"c2e919a3-acb2-4bf6-bf82-2a9d5675d486\"\
+  \ \"MP3 - 1.6MB\" %}})"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
