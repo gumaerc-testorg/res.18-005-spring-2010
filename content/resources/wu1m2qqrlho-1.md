@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-18-005-highlights-of-calculus-spring-2010/e843e9d3a1cc5ed2e6ef7b296584927d_WU1m2QQrlho.pdf
+file_size: 38220
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

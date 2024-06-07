@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-18-005-highlights-of-calculus-spring-2010/a5aacef117d00f9b80b95533a8c7f5a0_MITRES18_05S10_Big_Picture_Calculus.pdf
+file_size: 86545
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
