@@ -11,8 +11,7 @@ optional_text: ''
 parent_title: Highlights of Calculus (5 videos)
 parent_type: SupplementalResourceSection
 related_resources_text: "Practice problems<br>{{% resource_link \"1b96e913-9f30-8c98-2f0a-771b970231d9\"\
-  \ \"(PDF)\" %}}\n\nAudio summary for practice problems  \n({{% resource_link \"\
-  d8944c81-df5d-4780-9e08-16aa5ab895a1\" \"MP3 - 1.9MB\" %}})"
+  \ \"(PDF)\" %}}\n\nAudio summary for practice problems  \n([MP3 - 1.9MB](http://www.archive.org/download/MITRES18.005/MITRES18_005S10_Exponential_Summary_32K.mp3))"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''

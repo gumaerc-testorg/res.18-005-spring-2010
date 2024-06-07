@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-18-005-highlights-of-calculus-spring-2010/66df1151f4f3676718c89f502fbf99ee_lec10.jpg
+file_size: 2603
 file_type: image/jpeg
 image_metadata:
   caption: ''
