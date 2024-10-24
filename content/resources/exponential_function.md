@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-18-005-highlights-of-calculus-spring-2010/c4462180ad2684c41d54bee66ebf1633_exponential_function.jpg
+file: /ol-ocw-studio-app/courses/res-18-005-highlights-of-calculus-spring-2010/c4462180ad2684c41d54bee66ebf1633_exponential_function.jpg
 file_size: 3635
 file_type: image/jpeg
 image_metadata:
