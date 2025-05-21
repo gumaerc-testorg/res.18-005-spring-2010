@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-18-005-highlights-of-calculus-spring-2010/e016cce18ae27c7330cb39ffc3769792_MITRES18_05S10_Differential_Equations_Motion.pdf
+file: /courses/res-18-005-highlights-of-calculus-spring-2010/e016cce18ae27c7330cb39ffc3769792_MITRES18_05S10_Differential_Equations_Motion.pdf
 file_size: 53849
 file_type: application/pdf
 learning_resource_types: []
