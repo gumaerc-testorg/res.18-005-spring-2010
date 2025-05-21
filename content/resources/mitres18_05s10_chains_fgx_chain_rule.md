@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-18-005-highlights-of-calculus-spring-2010/74e213d46fc146692bc5d60223e610eb_MITRES18_05S10_Chains_fgx_Chain_Rule.pdf
+file: /courses/res-18-005-highlights-of-calculus-spring-2010/74e213d46fc146692bc5d60223e610eb_MITRES18_05S10_Chains_fgx_Chain_Rule.pdf
 file_size: 77201
 file_type: application/pdf
 learning_resource_types: []

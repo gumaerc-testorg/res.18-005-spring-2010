@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-18-005-highlights-of-calculus-spring-2010/2b617bfc52afd1d06817faf14ba9385b_MITRES18_05S10_SixFunc_SixRules_SixTheo.pdf
+file: /courses/res-18-005-highlights-of-calculus-spring-2010/2b617bfc52afd1d06817faf14ba9385b_MITRES18_05S10_SixFunc_SixRules_SixTheo.pdf
 file_size: 93466
 file_type: application/pdf
 learning_resource_types: []
