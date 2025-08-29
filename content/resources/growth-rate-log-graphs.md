@@ -2,8 +2,8 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/res-18-005-highlights-of-calculus-spring-2010/49176758ccc55fb87ef097fda2bca7ed_MITRES18_05S10_Big_Picture_Derivatives.pdf
-file_size: 79665
+file: /ol-ocw-studio-app/courses/res-18-005-highlights-of-calculus-spring-2010/eba56cdd70e64afea45efcb4da10435d_MITRES18_05S10_Growth_Rate_Log_Graphs.pdf
+file_size: 87166
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -14,8 +14,8 @@ learning_resource_types:
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
-title: Big Picture Derivatives
-uid: 49176758-ccc5-5fb8-7ef0-97fda2bca7ed
+title: Growth Rate Log Graphs
+uid: eba56cdd-70e6-4afe-a45e-fcb4da10435d
 video_files:
   archive_url: ''
   video_captions_file: ''

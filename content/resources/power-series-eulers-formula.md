@@ -2,8 +2,8 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/res-18-005-highlights-of-calculus-spring-2010/49176758ccc55fb87ef097fda2bca7ed_MITRES18_05S10_Big_Picture_Derivatives.pdf
-file_size: 79665
+file: /ol-ocw-studio-app/courses/res-18-005-highlights-of-calculus-spring-2010/ae6e5ed1d5d607fce5bcd59fd2c589a5_MITRES18_05S10_Power_Series_Eulers_Formula.pdf
+file_size: 77382
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -14,8 +14,8 @@ learning_resource_types:
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
-title: Big Picture Derivatives
-uid: 49176758-ccc5-5fb8-7ef0-97fda2bca7ed
+title: Power Series Euler's Formula
+uid: ae6e5ed1-d5d6-07fc-e5bc-d59fd2c589a5
 video_files:
   archive_url: ''
   video_captions_file: ''

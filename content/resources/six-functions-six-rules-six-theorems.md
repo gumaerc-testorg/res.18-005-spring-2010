@@ -2,8 +2,8 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/res-18-005-highlights-of-calculus-spring-2010/49176758ccc55fb87ef097fda2bca7ed_MITRES18_05S10_Big_Picture_Derivatives.pdf
-file_size: 79665
+file: /ol-ocw-studio-app/courses/res-18-005-highlights-of-calculus-spring-2010/2b617bfc52afd1d06817faf14ba9385b_MITRES18_05S10_SixFunc_SixRules_SixTheo.pdf
+file_size: 93466
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -14,8 +14,8 @@ learning_resource_types:
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
-title: Big Picture Derivatives
-uid: 49176758-ccc5-5fb8-7ef0-97fda2bca7ed
+title: Six Functions, Six Rules, Six Theorems
+uid: 2b617bfc-52af-d1d0-6817-faf14ba9385b
 video_files:
   archive_url: ''
   video_captions_file: ''

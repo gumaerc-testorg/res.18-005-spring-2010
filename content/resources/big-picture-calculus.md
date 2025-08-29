@@ -2,8 +2,8 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/res-18-005-highlights-of-calculus-spring-2010/49176758ccc55fb87ef097fda2bca7ed_MITRES18_05S10_Big_Picture_Derivatives.pdf
-file_size: 79665
+file: /ol-ocw-studio-app/courses/res-18-005-highlights-of-calculus-spring-2010/a5aacef117d00f9b80b95533a8c7f5a0_MITRES18_05S10_Big_Picture_Calculus.pdf
+file_size: 86545
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -14,8 +14,8 @@ learning_resource_types:
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
-title: Big Picture Derivatives
-uid: 49176758-ccc5-5fb8-7ef0-97fda2bca7ed
+title: Big Picture Calculus
+uid: a5aacef1-17d0-0f9b-80b9-5533a8c7f5a0
 video_files:
   archive_url: ''
   video_captions_file: ''
