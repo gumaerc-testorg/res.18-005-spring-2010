@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-18-005-highlights-of-calculus-spring-2010/7a68a721a59855fdc5437fe4007f4778_Big_Picture_Derivatives.jpg
+file: /ol-ocw-studio-app/courses/res-18-005-highlights-of-calculus-spring-2010/7a68a721a59855fdc5437fe4007f4778_Big_Picture_Derivatives.jpg
 file_size: 3582
 file_type: image/jpeg
 image_metadata:
