@@ -11,7 +11,8 @@ optional_text: ''
 parent_title: Highlights of Calculus (5 videos)
 parent_type: SupplementalResourceSection
 related_resources_text: "Practice problems<br>{{% resource_link \"2548145d-00f0-fb97-9b65-bb6c08ceeb6a\"\
-  \ \"(PDF)\" %}}\n\nAudio summary for practice problems  \n([MP3 - 2.3MB](http://www.archive.org/download/MITRES18.005/MITRES18_005S10_BigPictureIntegrals_Summary_32k.mp3))"
+  \ \"(PDF)\" %}}\n\nAudio summary for practice problems  \n({{% resource_link \"\
+  e698cc52-a82f-4389-a665-9b1fc67ae7d4\" \"MP3 - 2.3MB\" %}})"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
